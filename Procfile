@@ -1,1 +1,1 @@
-web: gunicorn GerontoApp.main:app
+web: gunicorn main:app
